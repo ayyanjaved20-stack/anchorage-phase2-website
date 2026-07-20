@@ -54,6 +54,19 @@ This project involved designing and developing a responsive real estate website 
 
 https://anchoragephase2.com/
 
+## Features
+
+- Fully responsive design
+- Custom Elementor layouts
+- Extensive custom CSS
+- Advanced animations and transitions
+- Interactive JavaScript components
+- Custom HTML widgets
+- Third-party API integrations
+- Contact & booking forms
+- Cross-browser compatibility
+- Performance optimization
+
 
 
 This repository serves as a project showcase. The source code is proprietary and belongs to the client, so it is not publicly available.
