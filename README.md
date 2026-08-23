@@ -4,6 +4,10 @@ A production-ready real estate website developed for Naval Anchorage Phase 2 usi
 
 🌐 Live Website: https://anchoragephase2.com/
 
+# Disclaimer
+
+This site is no longer under my control (client took over hosting), so I've included a final screen recording and performance scores in the /demo folder for reference.
+
 ## Overview
 
 This project involved designing and developing a responsive real estate website with a focus on performance, clean UI, and modern user experience. While Elementor was used as the page builder, a significant portion of the interface was customized using HTML, CSS, and JavaScript to achieve layouts and interactions beyond Elementor's default capabilities.
